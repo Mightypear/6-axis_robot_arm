@@ -1,4 +1,4 @@
-Improved version af RoTechics Robot arm.  
+Improved version af RoTechics Robot arm. Its based on a Arduino mega and a ramps board. can be driven with a PS4 controller trough matlab.
 
 
 Improvements:  
