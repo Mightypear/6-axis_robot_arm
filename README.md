@@ -1,8 +1,9 @@
 Improved version af RoTechics Robot arm.
 
 Improvements:
-Simplified BOM, now only uses m3 screws.
-Improved cable management
+Simplified BOM, now only uses m3 screws.  
+Improved cable management  
+
 *working* assembly in fusion 360
 Fixed concentricity on main eccentric cycloidal gear.
 Larger reduction for bowden drive pulleys
